@@ -1,0 +1,20 @@
+pear orange apple
+apple strawberry
+banana strawberry
+apple plum banana orange
+strawberry apple
+apple lemon
+banana plum lemon
+strawberry apple pear
+apple plum
+apple pear
+apple strawberry banana lemon
+apple orange pear
+plum peach strawberry banana
+pear apple banana strawberry
+plum strawberry apple
+banana plum pear
+orange apple
+peach banana orange pear apple
+pear lemon strawberry
+plum apple orange

@@ -1,0 +1,3 @@
+apple orange strawberry
+gape apple pear
+apple pear orange
